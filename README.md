@@ -31,6 +31,6 @@
 <br />
 <br />
 
-<h1 align="center">Stats</h1>
+<h2 align="center">Stats</h2>
 <img width="40%" align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lajanzen" />
 <img width="40%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lajanzen&show_icons=true&theme=flag-india" />
