@@ -31,10 +31,6 @@
 <br />
 <br />
 
-<h2 align="center">GitHub Status</h2>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=lajanzen&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=lajanzen&hide_border=true&theme=tokyonight" width="45%" >
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lajanzen&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/J-Bannach/github-readme-stats)
+<h1 align="center">Stats</h1>
+<img width="40%" align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lajanzen" />
+<img width="40%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lajanzen&show_icons=true&theme=flag-india" />
