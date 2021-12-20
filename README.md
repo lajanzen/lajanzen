@@ -2,7 +2,7 @@
 <br />
 <ul>
   <li>🔭  I’m currently working on <a href="https://github.com/lajanzen/dogday">DogDay</a></li>
-  <li>🌱  Just graduated from Neue Fische Web Dev Bootcamp (</li>
+  <li>🌱  Just graduated from Neue Fische Web Dev Bootcamp</li>
   <li>📫  Find me on <a href="https://www.linkedin.com/in/larajanzen/">Linkedin</a></li>
 </ul>
 <br />
