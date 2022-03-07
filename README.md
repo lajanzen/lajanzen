@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Lara!</h1>
 <br />
 <ul>
-  <li>🌱  Graduated from Neue Fische Web Dev Bootcamp and now working as Web Development Coach</li>
+  <li>🌱  Graduated from Neue Fische Web Dev Bootcamp</li>
+  <li>🚀  Now working as Junior Web Developer and Coach</li>
   <li>📫  Find me on <a href="https://www.linkedin.com/in/larajanzen/">Linkedin</a></li>
 </ul>
 <br />
